@@ -5,6 +5,8 @@
 node_modules
 /.next
 .next
+/dist
+dist
 
 # Logs
 logs
